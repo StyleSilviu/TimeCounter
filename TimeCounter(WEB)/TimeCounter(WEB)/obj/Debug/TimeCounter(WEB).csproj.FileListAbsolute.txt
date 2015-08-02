@@ -1,0 +1,13 @@
+c:\users\mariutza\documents\visual studio 2012\Projects\TimeCounter(WEB)\TimeCounter(WEB)\bin\TimeCounter(WEB).dll
+c:\users\mariutza\documents\visual studio 2012\Projects\TimeCounter(WEB)\TimeCounter(WEB)\bin\TimeCounter(WEB).pdb
+c:\users\mariutza\documents\visual studio 2012\Projects\TimeCounter(WEB)\TimeCounter(WEB)\obj\Debug\TimeCounter(WEB).dll
+c:\users\mariutza\documents\visual studio 2012\Projects\TimeCounter(WEB)\TimeCounter(WEB)\obj\Debug\TimeCounter(WEB).pdb
+c:\users\mariutza\documents\visual studio 2012\Projects\TimeCounter(WEB)\TimeCounter(WEB)\bin\Crypto8.dll
+c:\users\mariutza\documents\visual studio 2012\Projects\TimeCounter(WEB)\TimeCounter(WEB)\bin\Crypto8.pdb
+C:\Users\Szilviu\Documents\Visual Studio 2013\Projects\TimeCounter(WEB)\TimeCounter(WEB)\bin\TimeCounter(WEB).dll.config
+C:\Users\Szilviu\Documents\Visual Studio 2013\Projects\TimeCounter(WEB)\TimeCounter(WEB)\bin\TimeCounter(WEB).dll
+C:\Users\Szilviu\Documents\Visual Studio 2013\Projects\TimeCounter(WEB)\TimeCounter(WEB)\bin\TimeCounter(WEB).pdb
+C:\Users\Szilviu\Documents\Visual Studio 2013\Projects\TimeCounter(WEB)\TimeCounter(WEB)\bin\Crypto8.pdb
+C:\Users\Szilviu\Documents\Visual Studio 2013\Projects\TimeCounter(WEB)\TimeCounter(WEB)\obj\Debug\TimeCounter(WEB).csprojResolveAssemblyReference.cache
+C:\Users\Szilviu\Documents\Visual Studio 2013\Projects\TimeCounter(WEB)\TimeCounter(WEB)\obj\Debug\TimeCounter(WEB).dll
+C:\Users\Szilviu\Documents\Visual Studio 2013\Projects\TimeCounter(WEB)\TimeCounter(WEB)\obj\Debug\TimeCounter(WEB).pdb

@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="TimeCounter_WEB_.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    
+   <title>My Website</title>
+
+ 
+
+
+    <%--stilu--%>
+    <link rel="stylesheet" type="text/css" href="Styles/StyleSheet.css" />
+
+</head>
+<body>
+    <form  id="form1" runat="server">
+       
+    
+</div>
+     <div id="wrapper">
+        <div id="banner">
+        </div>
+        <div id="navigation">
+            <ul id="nav">
+                <%--reprezinta pagina de pornire--%>
+                <li><a href="~/Pages/MainPage.aspx" runat="server">Home</a></li>
+
+                <li><a href="~/Pages/SignIn.aspx" runat="server">Sign in</a></li>
+
+                <li><a href="#">About</a></li>
+            </ul>
+        </div>
+        <div id="content_area">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+<%--        <div id="sidebar">
+        </div>--%>
+        <div id="footer">
+            <p>All Rights reserved.</p>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
