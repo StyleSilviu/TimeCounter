@@ -40,22 +40,22 @@ namespace TimeCount.Methods
           //  MessageBox.Show(Crypto8.Cryptography.Decrypt(Crypto8.Cryptography.Encrypt("lol", true), true));
         internal void SignIn()
         {
-            //try
-            //{
+            try
+            {
                 if (Connection.State != System.Data.ConnectionState.Open)
                     Connection.Open();
-            //}
-            //catch (MySqlException)
-            //{
-            //    //MainPage.main1.ReturnedMySqlConnectionState = false;
-            //    MainWindow.main.IfSignedIn = false;
-            //    return;
-            //}
-            //catch (TimeoutException)
-            //{
-            //    MainWindow.main.IfSignedIn = false;
-            //    return;
-            //}
+            }
+            catch (MySqlException)
+            {
+                MainPage.main1.ReturnedMySqlConnectionState = false;
+                MainWindow.main.IfSignedIn = false;
+                return;
+            }
+            catch (TimeoutException)
+            {
+                MainWindow.main.IfSignedIn = false;
+                return;
+            }
 
             //if (!Connected)  CreateConnection(); 
             //Search for a date : mysql> SELECT * FROM employee WHERE dept = 'TECHNOLOGY' AND salary >= 6000;
