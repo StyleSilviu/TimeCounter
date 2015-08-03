@@ -9,6 +9,10 @@ namespace TimeCount.Converters
 {
     public class CenterAlignConverter : IValueConverter
     {
+        /// <summary>
+        /// sets the center position for the source page
+        /// </summary>
+
         public object Convert(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
         {
             return (double)value / 2;

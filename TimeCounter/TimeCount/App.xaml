@@ -111,26 +111,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             <!--default accent colors and brushes-->
             <Color x:Key="AccentColor">#1ba1e2</Color>
 

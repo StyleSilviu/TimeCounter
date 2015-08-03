@@ -91,3 +91,4 @@ C:\Users\Szilviu\Documents\Visual Studio 2013\Projects\TimeCounter\TimeCount\obj
 C:\Users\Szilviu\Documents\Visual Studio 2013\Projects\TimeCounter\TimeCount\obj\Debug\PageTransition.baml
 C:\Users\Szilviu\Documents\Visual Studio 2013\Projects\TimeCounter\TimeCount\obj\Debug\Pie\PieChart.baml
 C:\Users\Szilviu\Documents\Visual Studio 2013\Projects\TimeCounter\TimeCount\obj\Debug\TimeCount.g.resources
+C:\Users\Szilviu\Documents\Visual Studio 2013\Projects\TimeCounter\TimeCount\obj\Debug\TimeCount.csprojResolveAssemblyReference.cache

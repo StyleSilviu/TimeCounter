@@ -70,6 +70,7 @@ namespace TimeCount.Pages
         PieDataCollection<PieSegment> collection;
         MySqlDataBase _MySqlDataBase = new MySqlDataBase();
         AccountViewModel _AccountViewModel = new AccountViewModel();
+
         public MainPage()
         {
             InitializeComponent();
